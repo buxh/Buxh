@@ -6,7 +6,7 @@ You can contact me on discord
 
 Discord server [here](https://discord.gg/fakemen)
 
-Main Language: Batch
+Main Language: Batch\n
 Learning: Python
 
 ### Github Statistics
