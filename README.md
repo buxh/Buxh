@@ -7,6 +7,7 @@ You can contact me on discord
 Discord server [here](https://discord.gg/fakemen)
 
 Main Language: Batch
+Learning: Python
 
 ### Github Statistics
 ![Profile views](https://komarev.com/ghpvc/?username=Buxh) <br> [![Github Statistics](https://github-readme-stats.vercel.app/api?username=Buxh&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
