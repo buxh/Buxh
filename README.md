@@ -4,7 +4,7 @@ You can contact me on discord
 
 [![Discord Status, if this text is visible and blue that means that the host or discord status thing is in maintenance/down](https://discord.c99.nl/widget/theme-3/331540177380179970.png)]()  
 
-Discord server [here](https://discord.gg/fakemen)
+Discord server [here](https://discord.gg/AQFReeTSBe)
 
 Learning C++
 
