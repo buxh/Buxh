@@ -6,6 +6,7 @@ You can contact me on discord
 
 Discord server [here](https://discord.gg/AQFReeTSBe)
 and [here](https://discord.gg/https://discord.gg/YZx82NUg8K)
+
 Learning C++
 
 ### Github Statistics
